@@ -16,13 +16,13 @@ keywords:
   - hijacking
   - videos
   - jihadist
-description: "Early last December, two days after Syed Farook and Tashfeen Malik murdered 14 people at a holiday party in San Bernardino, California, the married couple's landlord invited the media to tour their home. Inside the sparsely furnished town house, news crews trained their cameras on the dirty dishes that filled the kitchen sink and the Arabic-language books that were stacked in a closet."
-datePublished: '2016-03-30T12:46:06.148Z'
-dateModified: '2016-03-30T12:44:03.072Z'
+description: "Why ISIS Is Winning the Social Media War-And How to Fight BackEarly last December, two days after Syed Farook and Tashfeen Malik murdered 14 people at a holiday party in San Bernardino, California, the married couple's landlord invited the media to tour their home. Inside the sparsely furnished town house, news crews trained their cameras on the dirty dishes that filled the kitchen sink and the Arabic-language books that were stacked in a closet."
+datePublished: '2016-03-30T12:47:30.743Z'
+dateModified: '2016-03-30T12:47:22.888Z'
 author: []
 related: []
 app_links: []
-title: Why ISIS Is Winning the Social Media War-And How to Fight Back
+title: 'NO DEJEN DE LEER ESTE ARTICULO. '
 sourcePath: _posts/2016-03-30-why-isis-is-winning-the-social-media-war-and-how-to-fight-ba.md
 published: true
 authors: []
