@@ -17,20 +17,20 @@ keywords:
   - videos
   - jihadist
 description: "Early last December, two days after Syed Farook and Tashfeen Malik murdered 14 people at a holiday party in San Bernardino, California, the married couple's landlord invited the media to tour their home. Inside the sparsely furnished town house, news crews trained their cameras on the dirty dishes that filled the kitchen sink and the Arabic-language books that were stacked in a closet."
-datePublished: '2016-03-30T12:43:54.396Z'
-dateModified: '2016-03-30T12:43:33.847Z'
+datePublished: '2016-03-30T12:46:06.148Z'
+dateModified: '2016-03-30T12:44:03.072Z'
 author: []
 related: []
 app_links: []
 title: Why ISIS Is Winning the Social Media War-And How to Fight Back
+sourcePath: _posts/2016-03-30-why-isis-is-winning-the-social-media-war-and-how-to-fight-ba.md
+published: true
 authors: []
 publisher:
   name: WIRED
   domain: www.wired.com
   url: 'http://www.wired.com'
   favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
-sourcePath: _posts/2016-03-30-why-isis-is-winning-the-social-media-war-and-how-to-fight-ba.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
