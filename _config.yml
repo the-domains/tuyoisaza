@@ -1,29 +1,18 @@
-name: TuyoIsaza
-favicon: null
-layout_spectrum: 0.5304
-typography_spectrum: 0
-title: Innovation Strategist
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#29272c'
-    - '#fffdff'
+    - '#29272C'
+    - '#FFFDFF'
     - '#969497'
-    - '#b5b3b7'
-    - '#5e5c61'
-  brandStrength: 0.3626036932691932
-  lightness: 0.5625
-  saturation: 1
-  rhythmicContrast: 0.30902153393253684
+    - '#B5B3B7'
+    - '#5E5C61'
+  brandStrength: 0
+  lightness: 0
+  rhythmicContrast: 0
+  saturation: 0
+cta: {}
+layout_spectrum: 0.5304
+name: TuyoIsaza
+opengraph: {}
 purpose: []
+typography_spectrum: 0
