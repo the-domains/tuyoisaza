@@ -17,8 +17,8 @@ keywords:
   - stein
   - face-to-face
 description: 'Stickers, Video, Audio calls and Notes Provide More Robust Interaction Snapchat today announced a significant update to its chat function, a move that could give other messaging apps increased competition. Snapchat, which says it has more than 100 million daily active users and more than 8 billion video views every day, is calling its update Chat 2.0 and gives users a much broader way to communicate with other Snapchat users.'
-datePublished: '2016-03-30T12:51:46.925Z'
-dateModified: '2016-03-30T12:51:38.549Z'
+datePublished: '2016-04-01T16:24:26.134Z'
+dateModified: '2016-04-01T16:24:25.656Z'
 author:
   - name: Maureen Morrison
     url: 'http://adage.com/author/maureen-morrison/2441'
@@ -40,14 +40,14 @@ related:
     thumbnail_width: 900
 app_links: []
 title: "What Marketers Should Know About Snapchat's Update"
+sourcePath: _posts/2016-03-30-what-marketers-should-know-about-snapchats-update.md
+published: true
 authors: []
 publisher:
   name: Adage
   domain: adage.com
   url: 'http://adage.com'
   favicon: 'http://adage.com/assets/ico/favicon.png'
-sourcePath: _posts/2016-03-30-what-marketers-should-know-about-snapchats-update.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
