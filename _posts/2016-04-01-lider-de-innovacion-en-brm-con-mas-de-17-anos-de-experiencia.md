@@ -6,22 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Líder de Innovación\_en BRM con más de 17 años de experiencia en planeación digital, dirección de cuentas, administración de relaciones con clientes, desarrollo de negocios y creación de valor, estrategias de mercad|eo online y offline, administración de bases de datos y creación e implementación de estrategias digitales (planeación, diseño web, programación,glocalización,implementación\_ y ejecución)."
-datePublished: '2016-04-01T16:21:07.604Z'
-dateModified: '2016-04-01T16:20:38.459Z'
+datePublished: '2016-04-01T16:23:27.599Z'
+dateModified: '2016-04-01T16:23:20.634Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-01-lider-de-innovacion-en-brm-con-mas-de-17-anos-de-experiencia.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-lider-de-innovacion-en-brm-con-mas-de-17-anos-de-experiencia.md
-published: true
 url: lider-de-innovacion-en-brm-con-mas-de-17-anos-de-experiencia/index.html
 _type: Article
 
 ---
+@TuyoIsaza - Innovation Strategist
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6f6ccf3-73ee-4a1a-8921-89bd5822688f.jpg)
 
 Líder de Innovación en BRM con más de 17 años de experiencia en planeación digital, dirección de cuentas, administración de relaciones con clientes, desarrollo de negocios y creación de valor, estrategias de mercad|eo online y offline, administración de bases de datos y creación e implementación de estrategias digitales (planeación, diseño web, programación,_glocalización,_implementación  y ejecución).
