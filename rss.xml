@@ -4,8 +4,15 @@
         <description><![CDATA[TuyoIsaza]]></description>
         <link>https://thegrid.ai/tuyoisaza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 14:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 12:14:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tuyoisaza/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Average Webpage Is Now the Size of the Original Doom]]></title>
+            <description><![CDATA[<article><h1>The Average Webpage Is Now the Size of the Original Doom</h1><p>The web is Doom ed. Today the average webpage is about the same size, data-wise, as the classic computer game Doom, according to software engineer Ronan Cremin. A compressed copy of the installer for the shareware version of Doom takes up about 2.39MB of space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07576748212c54f52353728cd698170ce9b144b1.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/average-webpage-now-size-original-doom/</link>
+            <guid isPermaLink="false">32cadff4-edbd-4e10-991f-e62cf40c2105</guid>
+            <pubDate>Mon, 25 Apr 2016 12:14:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dear TV: We Love You. You're Perfect. Now Change. (But Not Too Much.)]]></title>
             <description><![CDATA[<article><h1>Dear TV: We Love You. You're Perfect. Now Change. (But Not Too Much.)</h1><p>What Lies Ahead for the Future of Television Advertising Picture this: Thursday night at 9 p.m., you grab your glass of wine and sink into the couch to watch "Scandal" on ABC. But instead of an hourlong programming block interspersed with some 10 minutes of commercials for products you may never buy, you see a two-minute piece of content starring Kerry Washington as Olivia Pope.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc56be8f7303f0d454146dfcae4ff1137d6788d9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html</link>
             <guid isPermaLink="false">1e52a4c6-c8c4-4835-8eb1-e9cd85f8d320</guid>
             <pubDate>Wed, 30 Mar 2016 13:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why ISIS Is Winning the Social Media War-And How to Fight Back]]></title>
-            <description><![CDATA[<article><h1>Why ISIS Is Winning the Social Media War-And How to Fight Back</h1><p>Early last December, two days after Syed Farook and Tashfeen Malik murdered 14 people at a holiday party in San Bernardino, California, the married couple's landlord invited the media to tour their home. Inside the sparsely furnished town house, news crews trained their cameras on the dirty dishes that filled the kitchen sink and the Arabic-language books that were stacked in a closet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84bbead5bc65bde39e57b070f8a7bbded7867265.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/03/isis-winning-social-media-war-heres-beat/</link>
-            <guid isPermaLink="false">6620bd32-d93a-47fd-ade3-e7a660bb06dd</guid>
-            <pubDate>Wed, 30 Mar 2016 12:47:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
